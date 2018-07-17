@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Football Club</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <string-array name="club_desc">
+        <item>Futbol Club Barcelona, known simply as Barcelona and colloquially as Barça, is a professional football club based in Barcelona, Catalonia, Spain</item>
+        <item>Real Madrid Club de Fútbol, commonly known as Real Madrid, or simply as Real, is a professional football club based in Madrid, Spain</item>
+        <item>Fußball-Club Bayern München e.V., commonly known as FC Bayern München, FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich, Bavaria</item>
+        <item>Manchester City Football Club is a football club in Manchester, England. Founded in 1880 as St. Mark's, it became Ardwick Association Football Club in 1887 and Manchester City in 1894</item>
+        <item>Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football</item>
+        <item>Chelsea Football Club is a professional football club in London, England, that competes in the Premier League. Founded in 1905, the club's home ground since then has been Stamford Bridge</item>
+        <item>Associazione Calcio Milan, commonly referred to as A.C. Milan or simply Milan, is a professional football club in Milan, Italy, founded in 1899</item>
+        <item>Arsenal Football Club is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/ic_logo_barca</item>
+        <item>@drawable/ic_logo_madrid</item>
+        <item>@drawable/ic_logo_bayern</item>
+        <item>@drawable/ic_logo_city</item>
+        <item>@drawable/ic_logo_mu</item>
+        <item>@drawable/ic_logo_chelsea</item>
+        <item>@drawable/ic_logo_acm</item>
+        <item>@drawable/ic_logo_arsenal</item>
+    </array>
+</resources>
